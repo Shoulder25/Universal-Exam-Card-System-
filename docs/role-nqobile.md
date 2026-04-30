@@ -16,12 +16,12 @@ As the team leader, my role is to oversee the project's who, what, where, when, 
 to ensure our software is dependable and delivered within our semester constraints.
       	•Scheduling: I develop the project timeline and identify the critical path to prevent bottlenecks between roles.
       	•Risk Management: I assess technical and schedule-related risks, implementing mitigation strategies to ensure project continuity.
-	       •Resource Allocation: I delegate tasks based on member expertise while maintaining a balanced workload across the group.
+	     •Resource Allocation: I delegate tasks based on member expertise while maintaining a balanced workload across the group.
 
 2. Facilitating Integrated Team Roles
 	•Requirements Analyst: I assist in defining user requirements and acting as a buffer against scope creep to keep the project's scale manageable.
 	•Software Designer: I will collaborate on architectural scalability and help translate complex academic models (like the Process View) into practical 
-   logic that the programmer can easily 	implement.
+   logic that the programmer can easily implement.
 	•Programmer/Tester: Support Bandile by establishing technical standards for example version control or coding conventions and overseeing the integration of 
   unit and system testing to 	ensure a verified product.
 
