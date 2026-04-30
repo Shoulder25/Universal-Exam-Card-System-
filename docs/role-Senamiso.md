@@ -1,4 +1,4 @@
-###Roles of a Software architect/designer  
+### Roles of a Software architect/designer  
 
 Software architecture plays a pivotal role in any software development team by providing 
 the foundational blueprint that guides the entire project lifecycle. As defined in Ian 
