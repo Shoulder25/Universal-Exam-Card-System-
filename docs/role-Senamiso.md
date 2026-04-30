@@ -38,5 +38,5 @@ ensures the team delivers a coherent, evolvable system that meets both current n
 and future changes, making architecture the cornerstone of professional software 
 development. 
 
-References  
+### References  
 Sommerville, I. (2016). Software Engineering (10th ed.). Pearson.
