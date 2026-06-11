@@ -1,0 +1,19 @@
+# Node
+newReactApp/backend/node_modules/
+newReactApp/backend/.env
+newReactApp/node_modules/
+
+# Android
+AndroidApp/.gradle/
+AndroidApp/build/
+AndroidApp/app/build/
+AndroidApp/local.properties
+AndroidApp/*.iml
+AndroidApp/.idea/
+
+# Images
+newReactApp/backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
