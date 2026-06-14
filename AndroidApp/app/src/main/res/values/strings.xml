@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamPortal</string>
+    <!-- Add these inside <resources> tag -->
+    <string name="venue_header">%1$s  ·  %2$s</string>
+    <string name="venue_name">📍 %1$s</string>
+    <string name="venue_date">📅 %1$s</string>
+</resources>
